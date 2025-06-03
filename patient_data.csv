@@ -1,0 +1,101 @@
+Patient_ID,First_Name,Last_Name,Date_of_Birth,Gender,Admission_Date,Primary_Diagnosis,Blood_Pressure,Body_Temperature,Prescribed_Medication,Room_Number
+PID0001,Pamela,Brooks,2023-01-12,Female,2025-02-01,Diabetes,121/61,39.0,,459.0
+PID0002,Tiffany,Gates,1948-10-03,Female,2025-05-08,,,36.9,Insulin,395.0
+PID0003,David,Mcclain,1997-10-27,Male,2025-05-17,Flu,93/74,37.4,,298.0
+PID0004,Joshua,Gonzalez,1988-01-06,Male,2025-03-06,,,39.5,Amoxicillin,358.0
+PID0005,Brent,Kelly,1983-06-06,Other,2025-02-10,,,39.3,Insulin,365.0
+PID0006,Kimberly,Warren,2000-06-06,,2025-01-28,Hypertension,92/87,39.8,,479.0
+PID0007,LISA,HERNANDEZ,1937-06-15,Female,2025-01-12,Hypertension,120/64,37.5,Ibuprofen,360.0
+PID0008,Suzanne,Boyd,1968-02-03,Female,02/20/25,Flu,111/72,39.3,Insulin,426.0
+PID0009,Robert,Hill,1942-07-09,,2025-03-24,,107/86,37.7,Ibuprofen,165.0
+PID0010,Mathew,Jimenez,1986-03-18,Other,2025-04-17,Hypertension,,37.4,Amoxicillin,299.0
+PID0011,Christopher,Smith,1992-05-23,Other,2025-04-09 00:00:00,,123/88,39.3,Lisinopril,193.0
+PID0012,DANIEL,gomez,20091011,Male,2025-04-09,Fever,100/82,36.5,,479.0
+PID0013,Kenneth,Simpson,1963-10-03,Other,2025-03-21,Flu,117/73,38.8,Paracetamol,338.0
+PID0014,Patty,Zavala,19670122,Female,2025-03-29,Fever,127/77,37.7,Amoxicillin,400.0
+PID0015,William,Ryan,2001-10-07,Female,2025-01-11,Fever,93/64,38.3,Lisinopril,451.0
+PID0016,Austin,Miller,1987-03-11,,2025-01-19,Fever,130/88,39.0,Insulin,147.0
+PID0017,Diane,Gibson,1962-11-03,Other,2025-05-26,Cold,129/65,36.8,Amoxicillin,389.0
+PID0018,laura,mckay,1981-10-16,Female,2025-03-10,,130/84,38.9,Amoxicillin,304.0
+PID0019,Michael,Martinez,1974-11-02,Other,2025-05-26,Flu,99/89,38.6,,
+PID0020,Toni,Carpenter,1970-11-13,Other,2025-04-16 00:00:00,,90/76,,Ibuprofen,119.0
+PID0021,Ana,Thompson,1964-11-11,Other,2025-03-31,Flu,96/88,38.6,Lisinopril,
+PID0022,Vanessa,Buck,1982-12-14,Female,2025-01-15,Migraine,116/68,37.5,Insulin,363.0
+PID0023,Amy,West,2020-01-09,,2025-03-20,Fever,96/86,38.4,,235.0
+PID0024,Joseph,Acosta,20221004,,2025-04-28,Fever,91/72,39.8,,429.0
+PID0025,Joseph,Holt,1979-04-11,Other,01/10/25,Broken Bone,97/78,37.4,Ibuprofen,155.0
+PID0026,victoria,davis,09/18/1945,,2025-04-09,Hypertension,128/76,39.7,Ibuprofen,157.0
+PID0027,Todd,Hogan,2017-04-16,,2025-04-22,Broken Bone,100/60,37.8,Amoxicillin,217.0
+PID0028,Judy,Ruiz,1972-10-25,,2025-01-11,Hypertension,116/87,,,490.0
+PID0029,Katie,Carter,1996-07-22,Male,2025-05-25,Flu,127/87,36.5,Ibuprofen,474.0
+PID0030,Samantha,Lynch,1941-10-22,Female,2025-02-06,Hypertension,107/88,36.3,Paracetamol,194.0
+PID0031,Cory,Ross,1943-02-14,Female,2025-03-08,Hypertension,127/83,39.9,Ibuprofen,251.0
+PID0032,Amanda,Madden,1995-04-28,Male,2025-01-09,Cold,122/70,,Paracetamol,430.0
+PID0033,William,Davis,2000-01-01,Male,2025-05-24 00:00:00,,128/72,36.8,,134.0
+PID0034,Kenneth,Green,09-03-2001,Female,2025-01-07,Migraine,,39.0,Amoxicillin,496.0
+PID0035,Diana,Hamilton,2022-10-23,,2025-02-13 00:00:00,Diabetes,102/74,38.6,,249.0
+PID0036,James,Lester,03/21/1969,Other,2025-02-08,Broken Bone,128/89,37.1,,475.0
+PID0037,Benjamin,Reed,2006-02-02,Male,03/12/25,Hypertension,108/75,38.3,Lisinopril,435.0
+PID0038,maria,ALEXANDER,1959-04-09,,2025-03-04,Hypertension,124/70,39.7,,330.0
+PID0039,wendy,SMITH,18-09-1945,Female,2025-05-11,Diabetes,107/83,37.0,Paracetamol,414.0
+PID0040,Joshua,Watkins,1958-03-07,Other,2025-05-24,Fever,95/66,36.7,Insulin,151.0
+PID0041,Leah,Marks,2012-05-04,Male,2025-05-03,Fever,,40.0,,307.0
+PID0042,Jeremy,Haas,2003-06-03,Other,2025-03-07,,105/68,36.1,Paracetamol,336.0
+PID0043,SHARON,VEGA,08/01/2018,Other,01/24/25,,90/77,36.7,Lisinopril,280.0
+PID0044,John,Taylor,25-02-2023,Other,2025-05-06,,140/68,37.0,,440.0
+PID0045,Nathaniel,Valenzuela,1996-01-20,,2025-03-23,Flu,138/73,38.2,Lisinopril,186.0
+PID0046,Ian,Gamble,2000-01-29,Other,2025-02-01,Flu,100/68,38.4,Paracetamol,233.0
+PID0047,Christopher,Wilcox,1971-06-25,Other,2025-01-03,Cold,91/80,38.6,Amoxicillin,263.0
+PID0048,John,Richards,2014-01-19,Other,2025-03-20 00:00:00,Diabetes,117/68,38.8,Ibuprofen,444.0
+PID0049,Richard,Mcgrath,13-05-1958,Other,2025-04-25,Flu,135/70,40.0,Ibuprofen,312.0
+PID0050,Brandon,Esparza,1975-05-30,,2025-04-22,Flu,119/84,39.7,Lisinopril,217.0
+PID0051,Vickie,Benitez,1949-05-25,Female,2025-01-17 00:00:00,Cold,139/90,,Lisinopril,470.0
+PID0052,James,Ford,2021-10-22,Other,2025-04-27,,113/61,37.2,Amoxicillin,411.0
+PID0053,Amber,Smith,1972-11-10,Male,2025-02-21,Diabetes,132/69,38.8,Insulin,434.0
+PID0054,Connor,Kent,2022-02-21,Female,2025-03-25,Migraine,94/84,38.2,Paracetamol,195.0
+PID0055,Valerie,Holloway,1989-12-25,Female,2025-02-17,Diabetes,119/60,38.6,Ibuprofen,418.0
+PID0056,Christopher,Neal,1936-01-11,Male,2025-04-30,Broken Bone,130/78,40.0,Ibuprofen,461.0
+PID0057,Nicole,Mcdonald,03/23/1961,Male,2025-02-15,Migraine,121/61,37.3,Insulin,266.0
+PID0058,Margaret,Wade,1969-08-30,Female,2025-01-11,Cold,137/60,38.0,Lisinopril,449.0
+PID0059,Jamie,Fields,2010-11-21,Female,2025-01-21 00:00:00,Flu,103/83,36.5,Amoxicillin,184.0
+PID0060,Cassandra,Bennett,1954-03-02,Female,2025-01-16 00:00:00,Fever,97/62,37.5,Lisinopril,461.0
+PID0061,STEVEN,brown,2011-03-06,Male,2025-05-12,,99/79,39.7,Amoxicillin,204.0
+PID0062,Robert,Merritt,1973-08-26,,2025-01-02,,99/90,38.4,Paracetamol,344.0
+PID0063,thomas,MARTIN,1961-01-27,Other,2025-01-31,Migraine,132/88,39.2,Insulin,438.0
+PID0064,Shane,Kennedy,2005-07-04,Other,2025-01-06,Hypertension,108/87,37.7,Paracetamol,490.0
+PID0065,William,Harrison,1998-11-15,Female,2025-01-06,Hypertension,127/65,37.9,Lisinopril,358.0
+PID0066,Carl,Stone,02-12-1981,Female,2025-03-20,Fever,132/90,38.7,Amoxicillin,144.0
+PID0067,Savannah,Brewer,1973-04-21,,2025-04-05,,113/83,36.8,Amoxicillin,251.0
+PID0068,chris,ALVARADO,2011-04-22,Female,2025-04-12,Flu,139/84,36.1,,474.0
+PID0069,Samantha,Glenn,1968-08-15,,2025-02-16,Cold,101/66,37.0,Amoxicillin,461.0
+PID0070,Matthew,Garcia,1995-01-30,Female,2025-02-22,Cold,106/77,38.6,Insulin,338.0
+PID0071,Ariana,Cortez,1950-09-06,,2025-02-19,Migraine,128/76,37.2,Paracetamol,433.0
+PID0072,tiffany,finley,1979-03-22,,2025-04-28,Cold,,39.0,Ibuprofen,305.0
+PID0073,Cynthia,Saunders,1994-05-17,Other,2025-04-07,Flu,97/89,38.2,Amoxicillin,257.0
+PID0074,Christopher,Ball,1975-12-10,Other,2025-01-12,Diabetes,131/67,38.9,,304.0
+PID0075,Tina,Howard,1947-06-23,Female,2025-02-02,Migraine,112/86,37.7,Amoxicillin,468.0
+PID0076,Brent,Thomas,2015-12-09,Male,2025-02-05,Cold,111/61,38.2,Ibuprofen,322.0
+PID0077,Robert,James,1983-07-20,Male,01/29/25,Cold,119/84,36.7,Ibuprofen,420.0
+PID0078,Shannon,Williams,1952-11-29,,2025-01-28,Migraine,,39.2,Ibuprofen,489.0
+PID0079,Robert,Nolan,1974-11-27,,2025-01-01,Flu,,39.0,Paracetamol,340.0
+PID0080,Matthew,Mahoney,2018-12-14,,03/19/25,Diabetes,105/84,37.6,Insulin,279.0
+PID0081,jennifer,smith,1989-08-04,Male,2025-03-02,Broken Bone,105/62,38.7,,409.0
+PID0082,Michelle,Moran,1965-01-03,Female,2025-03-23 00:00:00,Diabetes,112/71,,,140.0
+PID0083,John,Simmons,1989-02-13,Male,2025-01-12,Fever,130/86,37.3,Paracetamol,333.0
+PID0084,NATASHA,martin,1946-06-24,Male,2025-05-17,Cold,106/80,36.1,Paracetamol,300.0
+PID0085,Jason,Brooks,08/16/1999,Other,2025-04-20,Cold,131/70,36.5,,420.0
+PID0086,Laura,Galloway,1999-09-24,Other,01/26/25,Broken Bone,,39.6,Amoxicillin,184.0
+PID0087,Cynthia,Young,1981-07-30,Female,2025-03-27 00:00:00,Cold,131/63,36.4,,437.0
+PID0088,Rachel,Duarte,2016-03-08,,2025-02-03,Cold,91/76,39.1,Ibuprofen,312.0
+PID0089,Jeffrey,Pearson,1986-09-09,,2025-02-06,Cold,133/87,38.8,,240.0
+PID0090,Jack,Francis,1968-02-28,Male,2025-03-09,Flu,140/81,38.5,Ibuprofen,425.0
+PID0091,Ashley,Duke,1981-10-01,Other,2025-01-19 00:00:00,,109/86,36.8,Amoxicillin,283.0
+PID0092,Tracey,Phillips,03-06-2011,Male,2025-01-09,Fever,,,Ibuprofen,463.0
+PID0093,James,Hernandez,1956-09-10,Other,2025-03-01,Cold,110/63,36.8,Amoxicillin,327.0
+PID0094,Regina,Hunter,1945-01-30,,2025-05-17 00:00:00,Diabetes,107/81,39.8,Amoxicillin,465.0
+PID0095,Eric,Martin,1970-06-02,,2025-04-26,Migraine,,36.4,Ibuprofen,124.0
+PID0096,Rodney,Bell,09-09-2011,Other,2025-02-02,Migraine,92/88,38.3,Lisinopril,296.0
+PID0097,Shannon,Romero,1960-10-27,Other,2025-03-28,Diabetes,134/71,,Amoxicillin,198.0
+PID0098,Gregory,Watson,2021-11-23,Male,2025-02-20,Hypertension,105/60,36.9,Paracetamol,174.0
+PID0099,Tonya,Flowers,1947-02-12,Female,2025-03-15,Diabetes,135/66,37.2,Paracetamol,314.0
+PID0100,brandon,wolfe,1997-02-27,Male,2025-05-18,,115/83,,,380.0
